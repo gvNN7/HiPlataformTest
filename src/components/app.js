@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import BlocBuilder from 'bloc-builder-react';
-import AppBloc from '../bloc/appBloc';
+import AppBloc from '../bloc/appBloc.js';
 import '../styles/index.css';
 import { CustomContainer } from './customContainer';
 

@@ -1,8 +1,7 @@
 const { BehaviorSubject, partition } = require("rxjs");
 const { default: Parent } = require("../model/parent");
 
-
-class AppBloc {
+export default class AppBloc {
   constructor() { 
     this.parentList = [];
     this.parentListController = new BehaviorSubject();
@@ -79,5 +78,3 @@ class AppBloc {
     this.parentListController.next(this.parentList);
   }
 }
-
-module.exports = AppBloc;
