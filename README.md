@@ -12,6 +12,11 @@
 
 ### ✨ [Demo](https://boring-allen-5237eb.netlify.app/)
 
+## Description
+
+This project was build using concepts of reactive programming (RxJs), with a stream to perfom specific updates on the component.
+For better handling, it was necessary to convert the list to an acceptable JSON format and then, it was possible to perform the construction of the components recursively, as well as their respective expansion and selection methods.
+
 ## Install
 
 ```sh
