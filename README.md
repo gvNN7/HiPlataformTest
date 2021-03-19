@@ -14,8 +14,7 @@
 
 ## Description
 
-This project was build using concepts of reactive programming (RxJs), with a stream to perfom specific updates on the component.
-For better handling, it was necessary to convert the list to an acceptable JSON format and then, it was possible to perform the construction of the components recursively, as well as their respective expansion and selection methods.
+Using concepts of reactive programming (RxJs), this project is able to render a list of objects, into expandable rows with checkboxes embedded. Using a stream to realize specific updates on the component, it was necessary to convert the list to an acceptable JSON format and then, perform the construction of the components recursively, as well as their respective expansion and selection methods.
 
 ## Install
 
