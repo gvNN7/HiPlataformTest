@@ -8,7 +8,7 @@
 
 > A project able to parse a list of objects into expandable rows with checkboxes embedded.
 
-### 🏠 [Homepage](https://boring-allen-5237eb.netlify.app/)
+### 🏠 [Homepage](https://github.com/gvNN7/HiPlataformTest/)
 
 ### ✨ [Demo](https://boring-allen-5237eb.netlify.app/)
 
