@@ -15,6 +15,7 @@
 ## Description
 
 Using concepts of reactive programming (RxJs), this project is able to render a list of objects, into expandable rows with checkboxes embedded. Using a stream to realize specific updates on the component, it was necessary to convert the list to an acceptable JSON format and then, perform the construction of the components recursively, as well as their respective expansion and selection methods.
+PS: If the page is refreshed the status is maintained with the help of Localstorage, so give a try and hit F5 :D
 
 ## Install
 
