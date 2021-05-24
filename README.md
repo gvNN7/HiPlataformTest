@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://github.com/gvNN7/HiPlataformTest/)
 
-### ✨ [Demo](https://boring-allen-5237eb.netlify.app/)
+### ✨ [Demo](https://hiplataform-test.netlify.app/)
 
 ## Description
 
